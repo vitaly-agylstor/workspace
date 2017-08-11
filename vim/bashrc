@@ -1,0 +1,11 @@
+
+# Import aliases
+if [ -f ~/.bash_aliases ]; then
+    . ~/.bash_aliases
+fi
+
+# Make history size infinite
+export HISTSIZE=
+export HISTFILESIZE=
+export PATH=/Users/vkir/hfrepo/arcanist/arcanist/bin:$PATH
+export EDITOR=vim
