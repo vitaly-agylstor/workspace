@@ -1,3 +1,0 @@
-alias ssh_='ssh -i ~/.aws/delaware-key-pair-us-east-1.pem'
-alias ll='ls -lhG'
-alias grep='grep -n --colour=always'
